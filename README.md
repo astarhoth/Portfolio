@@ -22,6 +22,8 @@ Estou desenvolvendo esse portfólio para apresentar meus projetos e aprimorar mi
 - JavaScript (em desenvolvimento)
 - Git e GitHub para controle de versão
 - Design responsivo com media queries (em desenvolvimento)
+- Chat GPT para consultas
+- Intelicode
 
 # Onde Encontrar o Código Fonte
 O código fonte deste portfólio está disponível no meu repositório do GitHub:
@@ -32,4 +34,6 @@ O código fonte deste portfólio está disponível no meu repositório do GitHub
 # Como Executar o Projeto
 1. Baixe ou clone o repositório para sua máquina local.
 2. Abra o arquivo `index.html` em seu navegador web preferido.
-3. Explore o portfólio e veja meus projetos
+3. Explore o portfólio e veja meus projetos.
+
+# Atualização da versão: 

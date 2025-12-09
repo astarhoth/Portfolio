@@ -1,39 +1,16 @@
-# Vitória Brayner
-Full stack developer
-## Contato
-<a href="https://www.linkedin.com/in/vitória-brayner-9b1b072b6" target="_blank" rel="noopener noreferrer">
-    Linkedin
-</a>
-<a href="https://github.com/astarhoth" target="_blank" rel="noopener noreferrer">
-    Github
-</a>
+# React + Vite
 
-Estou desenvolvendo esse portfólio para apresentar meus projetos e aprimorar minhas habilidades em desenvolvimento web.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# Funcionalidades
-- Apresentar meus projetos de forma clara e organizada.
-- Design responsivo para diferentes dispositivos. (em desenvolvimento)
-- Links para minhas redes sociais e contato. (em desenvolvimento)
-- Seção "Sobre mim" para compartilhar minha trajetória e habilidades. (em desenvolvimento)
+Currently, two official plugins are available:
 
-# Tecnologias Utilizadas:
-- HTML5
-- CSS3
-- JavaScript (em desenvolvimento)
-- Git e GitHub para controle de versão
-- Design responsivo com media queries (em desenvolvimento)
-- Chat GPT para consultas
-- Intelicode
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-# Onde Encontrar o Código Fonte
-O código fonte deste portfólio está disponível no meu repositório do GitHub:
-<a href="https://github.com/astarhoth/Portfolio" target="_blank" rel="noopener noreferrer">
-    Portfolio
-</a>
+## React Compiler
 
-# Como Executar o Projeto
-1. Baixe ou clone o repositório para sua máquina local.
-2. Abra o arquivo `index.html` em seu navegador web preferido.
-3. Explore o portfólio e veja meus projetos.
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-# Atualização da versão: 
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.

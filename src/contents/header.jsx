@@ -4,7 +4,7 @@ import "./header.css";
 export default function Header() {
   return (
     <header className="header">
-      <h1 className="logo">Vitória Dev</h1>
+      <h1 className="logo">Vitória Brayner</h1>
 
       <nav className="nav">
         <Link to="/" className="nav-link">Home</Link>
